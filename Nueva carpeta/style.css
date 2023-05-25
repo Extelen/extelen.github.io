@@ -1,0 +1,22 @@
+h1{
+    color: white;
+    position:relative;
+    text-align: center;
+    
+    font-family: 'Roboto', sans-serif;
+height:100%;
+margin: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+html {
+      height: 100%;
+
+}
+body{
+    background-size:cover;
+      height: 100%;
+      margin: 0px;
+
+}
